@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  id: 1
+  code: MyString
+  price: 1.5
+  description: MyText
+
+two:
+  id: 1
+  code: MyString
+  price: 1.5
+  description: MyText
